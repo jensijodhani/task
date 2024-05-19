@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SALARY</title>
+</head>
+
+<body>
+    <script>
+        let bs=100,hra,da,ta;
+        hra = bs * 10 / 100;
+        da = bs * 5 / 100;
+        ta = bs * 8 / 100;
+        ans = bs + hra + da + ta;
+        console.log("FINAL ANS:-",ans);
+
+    </script>
+</body>
+
+</html>
