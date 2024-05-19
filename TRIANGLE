@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRIANGLE</title>
+</head>
+<body>
+    <SCript>
+        let b=12;
+        let h=13;
+        ans=0.5*b*h;
+        console.log("TRIANGLE AREA:-",ans);
+    </SCript>
+</body>
+</html>
